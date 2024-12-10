@@ -44,7 +44,7 @@ echo "  |000000000000000000000000000000|___/00000000000000000000000"
 echo "  |0000000000000000000000000000000000000000000000000000000000"
 echo "  "
 echo -e $lightgreen
-echo " ----[C] 2019 |ParrotSec |Dracos |Hacker Indonesia |Palembang |"
+echo " ----[C] 2025 |Hacker INDIA |ALEX!! |"
 echo ""
 echo -e $red
 echo -n "PLS CLICK ENTER TO VIEW ALL TOOL'S __________________"
@@ -52,7 +52,7 @@ read warning
 echo -e $lightgreen
 #!/bin/bash
 #set the prompt to show you are in pentmenu and not standard shell
-PS3="MR. SHUVRO@HACKER>"
+PS3="MR.SHUVRO@HACKER>"
 
 ##MAINMENU##
 ##################
