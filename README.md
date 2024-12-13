@@ -2,7 +2,7 @@ THE TOOL NAME IS --->>> ALL_SCAN_TOOL.SH
 
 HOW TO DOWNLOAD ?
 
-INSTALL KALI OR ETC !!!!!!
+INSTALL IN KALI OR ETC !!!!!!
 
 1ST --> wget https://raw.githubusercontent.com/CEHSHUVRO/ALL_SCAN_TOOL.SH/refs/heads/main/my_dos.sh
 
